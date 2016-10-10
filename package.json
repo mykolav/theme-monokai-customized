@@ -1,15 +1,13 @@
 {
-	"name": "theme-monokai-green-comments",
-	"version": "0.1.0",
-	"publisher": "vscode",
-	"engines": { "vscode": "*" },
-	"contributes": {
-		"themes": [
-			{
-				"label": "Monokai (green comments)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Monokai.tmTheme"
-			}
-		]
-	}
+    "name": "theme-monokai-customized",
+    "version": "0.1.0",
+    "publisher": "vscode",
+    "engines": { "vscode": "*" },
+    "contributes": {
+        "themes": [{
+            "label": "Monokai (customized)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Monokai.tmTheme"
+        }]
+    }
 }
