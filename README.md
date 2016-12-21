@@ -5,3 +5,5 @@ Changed the color of the selection to a shade of blue)
 
 Changed the background to dark blue
 Changed the highlighted line to dark blue (lighter than the background)
+
+Removed the visual noise of class, function, etc names underlining
